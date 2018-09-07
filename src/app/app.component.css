@@ -1,0 +1,23 @@
+input {
+    margin-bottom: 20px;
+    height: 45px;
+    border-radius: 4px;
+}
+
+.container {
+    margin-top: 20px;
+} 
+
+h1 {
+    margin-bottom: 40px;
+}
+
+button {
+    /* height: 45px; */
+    border-radius: 4px;
+    padding: 12px 15px;
+}
+
+.height {
+    font-size: 75px;
+}
